@@ -33,21 +33,24 @@
 
 ## 🚀 Featured Projects
 
-Here are some of my most interesting repositories (feel free to update these with your actual project details):
+1. **[Vibramundo](https://github.com/mariodiazgomez/vibramundo)**  
+   - 📝 *Description:* A project showcasing creative solutions and innovative ideas in its domain.  
+   - 🔧 *Technologies:* [List key technologies here]
 
-1. **[Project 1](#)**  
-   - 📝 *Description:* A brief overview of what this project does.  
-   - 🔧 *Technologies:* [List key technologies]
+2. **[Vryptobot](https://github.com/mariodiazgomez/vryptobot)**  
+   - 📝 *Description:* An exciting project focusing on automation and intelligent bot development.  
+   - 🔧 *Technologies:* [List key technologies here]
 
-2. **[Project 2](#)**  
-   - 📝 *Description:* A brief overview of what this project does.  
-   - 🔧 *Technologies:* [List key technologies]
+3. **[Simulador de cerebro](https://github.com/mariodiazgomez/simulador-de-cerebro)**  
+   - 📝 *Description:* A brain simulator project that explores neural models and cognitive processes.  
+   - 🔧 *Technologies:* [List key technologies here]
 
-3. **[Project 3](#)**  
-   - 📝 *Description:* A brief overview of what this project does.  
-   - 🔧 *Technologies:* [List key technologies]
+4. **[TFG Contamiination](https://github.com/mariodiazgomez/tfg-contamiination)**  
+   - 📝 *Description:* My final degree project, tackling the challenge of contamination through innovative technology.  
+   - 🔧 *Technologies:* [List key technologies here]
 
-*Feel free to add more projects or update these placeholders with your own work.*
+5. **Other Projects:**  
+   - Discover more exciting projects on my [GitHub Profile](https://github.com/mariodiazgomez).
 
 ---
 
@@ -87,7 +90,7 @@ Here are some of my most interesting repositories (feel free to update these wit
   </a>
 </p>
 
-- **Phone:** +34 601 71 21 68  
+
 - **Location:** Madrid, Spain  
 
 ---
