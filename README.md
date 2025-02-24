@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <!-- Replace with the correct URL if needed -->
-  <img src="https://raw.githubusercontent.com/ErGranPepe/Mario%20d%C3%ADaz%20g%C3%B3mez.png" alt="Mario Díaz Gómez Banner" width="100%" />
+  <img src="./Mario díaz gómez.png" alt="Mario Díaz Gómez Banner" width="100%" />
 </p>
 
 <h1 align="center">Hello, I'm Mario Díaz Gómez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
