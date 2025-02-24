@@ -1,16 +1,37 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mariodiazgomez/mariodiazgomez/main/banner.png" alt="Mario Díaz Gómez Banner" width="100%" />
+</p>
 
-<!--
-**ErGranPepe/ErGranPepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola, soy Mario Díaz Gómez! 👋
 
-Here are some ideas to get you started:
+**Dual Degree in Computer Engineering and Computer Science**  
+**#OPEN_TO_WORK**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un apasionado de la tecnología, la innovación y el análisis de datos. Actualmente finalizando mis estudios en la Universidad Rey Juan Carlos y siempre buscando nuevas oportunidades para aprender y crecer profesionalmente.
+
+---
+
+## 🚀 Proyectos Destacados
+
+Aquí puedes enlazar tus repositorios más relevantes:
+
+- [**Proyecto 1**](#): Descripción breve del proyecto o tecnologías utilizadas.
+- [**Proyecto 2**](#): Descripción breve del proyecto o tecnologías utilizadas.
+- [**Proyecto 3**](#): Descripción breve del proyecto o tecnologías utilizadas.
+
+<!-- Añade más proyectos si lo consideras necesario -->
+
+---
+
+## 💬 Contacto
+
+- **GitHub:** [mariodiazgomez](https://github.com/mariodiazgomez)
+- **LinkedIn:** [Mario Díaz Gómez](https://www.linkedin.com/in/mario-diaz-gomez-9a6755292/)
+- **Email:** [mariodiazgomez05@gmail.com](mailto:mariodiazgomez05@gmail.com)
+
+---
+
+<p align="center">
+  <i>“La innovación y la pasión por la tecnología son mis motores.”</i>
+</p>
