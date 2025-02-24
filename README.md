@@ -12,18 +12,6 @@ Soy un apasionado de la tecnología, la innovación y el análisis de datos. Act
 
 ---
 
-## 🚀 Proyectos Destacados
-
-Aquí puedes enlazar tus repositorios más relevantes:
-
-- [**Proyecto 1**](#): Descripción breve del proyecto o tecnologías utilizadas.
-- [**Proyecto 2**](#): Descripción breve del proyecto o tecnologías utilizadas.
-- [**Proyecto 3**](#): Descripción breve del proyecto o tecnologías utilizadas.
-
-<!-- Añade más proyectos si lo consideras necesario -->
-
----
-
 ## 💬 Contacto
 
 - **GitHub:** [mariodiazgomez](https://github.com/mariodiazgomez)
