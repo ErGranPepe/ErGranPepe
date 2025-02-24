@@ -1,15 +1,15 @@
 <!-- Banner -->
 <p align="center">
-  <!-- Replace the URL below with the direct link to your banner image hosted in your repository (e.g., assets/banner.png) -->
-  <img src="https://raw.githubusercontent.com/mariodiazgomez/mariodiazgomez/main/assets/banner.png" alt="Mario Díaz Gómez Banner" width="100%" />
+  <!-- Replace with the correct URL if needed -->
+  <img src="https://raw.githubusercontent.com/ErGranPepe/Mario%20d%C3%ADaz%20g%C3%B3mez.png" alt="Mario Díaz Gómez Banner" width="100%" />
 </p>
 
 <h1 align="center">Hello, I'm Mario Díaz Gómez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
   <em>
-    <strong>Dual Degree in Computer Engineering and Computer Science</strong>  
-    <br/>#OPEN_TO_WORK | <strong>Passionate about Technology & Innovation</strong>
+    <strong>Dual Degree in Computer Engineering and Computer Science</strong><br/>
+    #OPEN_TO_WORK | <strong>Passionate about Technology & Innovation</strong>
   </em>
 </p>
 
@@ -24,9 +24,9 @@
 ## ✨ About Me
 
 - 🌱 **Currently:** Completing my Dual Degree at Rey Juan Carlos University (URJC).  
-- 🧑‍💻 **Focused on:** Data analysis, NOx emissions simulations, and software projects.  
-- 🚀 **Goal:** To keep learning and growing in the tech world.  
-- 🤝 **Looking to collaborate:** On innovative, data-driven, and software development projects.  
+- 🧑‍💻 **Focused on:** Data analysis, NOx emissions simulations, and innovative software projects.  
+- 🚀 **Goal:** To keep learning and growing professionally in the tech world.  
+- 🤝 **Looking to collaborate:** On cutting-edge, data-driven projects and software development initiatives.  
 - 🎓 **Languages:** English | Spanish  
 - 💡 **Fun Fact:** I love organizing mountain activities with kids! ⛰️👦👧
 
@@ -34,25 +34,27 @@
 
 ## 🚀 Featured Projects
 
-Here are some of my most interesting repositories (feel free to update these with your actual projects):
+Here are some of my most interesting repositories (feel free to update these with your actual project details):
 
 1. **[Project 1](#)**  
    - 📝 *Description:* A brief overview of what this project does.  
-   - 🔧 *Technologies:* [List languages/frameworks/libraries]
+   - 🔧 *Technologies:* [List key technologies]
 
 2. **[Project 2](#)**  
    - 📝 *Description:* A brief overview of what this project does.  
-   - 🔧 *Technologies:* [List languages/frameworks/libraries]
+   - 🔧 *Technologies:* [List key technologies]
 
 3. **[Project 3](#)**  
    - 📝 *Description:* A brief overview of what this project does.  
-   - 🔧 *Technologies:* [List languages/frameworks/libraries]
+   - 🔧 *Technologies:* [List key technologies]
+
+*Feel free to add more projects or update these placeholders with your own work.*
 
 ---
 
 ## ⚙️ Skills & Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
@@ -72,7 +74,7 @@ Here are some of my most interesting repositories (feel free to update these wit
 
 ---
 
-## 🌐 Contact Me
+## 🌐 Contact
 
 <p align="center">
   <a href="mailto:mariodiazgomez05@gmail.com">
@@ -92,6 +94,6 @@ Here are some of my most interesting repositories (feel free to update these wit
 ---
 
 <p align="center">
-  <i>"Innovation and passion for technology drive me to transform data into real solutions." 💡🚀</i><br/>
-  <img src="https://media.giphy.com/media/3oKIP9DnQ0PTcr3fS4/giphy.gif" width="50">
+  <i>"Innovation and passion for technology drive me to transform data into real solutions."</i><br/>
+  <img src="https://media.giphy.com/media/3oKIP9DnQ0PTcr3fS4/giphy.gif" width="40">
 </p>
