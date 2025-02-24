@@ -3,7 +3,9 @@
   <img src="./Mario díaz gómez.png" alt="Mario Díaz Gómez Banner" width="100%" />
 </p>
 
-<h1 align="center">Hello, I'm Mario Díaz Gómez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">
+  Hello, I'm Mario Díaz Gómez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+</h1>
 
 <p align="center">
   <em>
@@ -33,24 +35,24 @@
 
 ## 🚀 Featured Projects
 
-1. **[Vibramundo](https://github.com/mariodiazgomez/vibramundo)**  
-   - 📝 *Description:* A project showcasing creative solutions and innovative ideas in its domain.  
-   - 🔧 *Technologies:* [List key technologies here]
+1. **[Vibramundo](https://github.com/ErGranPepe/vibramundo)**  
+   - 📝 *Description:* A creative project that showcases innovative ideas in its domain.  
+   - 🔧 *Technologies:* [Add key technologies]
 
-2. **[Vryptobot](https://github.com/mariodiazgomez/vryptobot)**  
-   - 📝 *Description:* An exciting project focusing on automation and intelligent bot development.  
-   - 🔧 *Technologies:* [List key technologies here]
+2. **[Vryptobot](https://github.com/ErGranPepe/vryptobot)**  
+   - 📝 *Description:* An automation and intelligent bot development project.  
+   - 🔧 *Technologies:* [Add key technologies]
 
-3. **[Simulador de cerebro](https://github.com/mariodiazgomez/simulador-de-cerebro)**  
-   - 📝 *Description:* A brain simulator project that explores neural models and cognitive processes.  
-   - 🔧 *Technologies:* [List key technologies here]
+3. **[Simulador de cerebro](https://github.com/ErGranPepe/simulador-de-cerebro)**  
+   - 📝 *Description:* A brain simulation project exploring neural models and cognitive processes.  
+   - 🔧 *Technologies:* [Add key technologies]
 
-4. **[TFG Contamiination](https://github.com/mariodiazgomez/tfg-contamiination)**  
-   - 📝 *Description:* My final degree project, tackling the challenge of contamination through innovative technology.  
-   - 🔧 *Technologies:* [List key technologies here]
+4. **[TFG Contamiination](https://github.com/ErGranPepe/tfg-contamiination)**  
+   - 📝 *Description:* My final degree project tackling contamination challenges with innovative technology.  
+   - 🔧 *Technologies:* [Add key technologies]
 
-5. **Other Projects:**  
-   - Discover more exciting projects on my [GitHub Profile](https://github.com/mariodiazgomez).
+5. **More Projects:**  
+   - Discover additional projects on my [GitHub Profile](https://github.com/ErGranPepe?tab=repositories).
 
 ---
 
@@ -70,8 +72,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariodiazgomez&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariodiazgomez&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ErGranPepe&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErGranPepe&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
 ---
@@ -85,12 +87,12 @@
   <a href="https://www.linkedin.com/in/mario-diaz-gomez-9a6755292/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/mariodiazgomez">
+  <a href="https://github.com/ErGranPepe">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-
+- **Phone:** +34 601 71 21 68  
 - **Location:** Madrid, Spain  
 
 ---
