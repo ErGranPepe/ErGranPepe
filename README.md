@@ -25,46 +25,27 @@
 ## ✨ About Me
 
 - 🌱 **Currently:** Completing my Dual Degree at Rey Juan Carlos University (URJC).  
-- 🧑‍💻 **Focused on:** Data analysis, NOx emissions simulations, and innovative software projects.  
+- 🧑‍💻 **Focused on:** Data analysis, NOx emissions simulations, AI projects (including image & facial recognition), and innovative software development.  
 - 🚀 **Goal:** To keep learning and growing professionally in the tech world.  
 - 🤝 **Looking to collaborate:** On cutting-edge, data-driven projects and software development initiatives.  
 - 🎓 **Languages:** English | Spanish  
-- 💡 **Fun Fact:** I love organizing mountain activities with kids! ⛰️👦👧
+- 💡 **Fun Fact:** I love organizing mountain activities ! ⛰️
 
----
-
-## 🚀 Featured Projects
-
-1. **[Vibramundo](https://github.com/ErGranPepe/vibramundo)**  
-   - 📝 *Description:* A creative project that showcases innovative ideas in its domain.  
-   - 🔧 *Technologies:* [Add key technologies]
-
-2. **[Vryptobot](https://github.com/ErGranPepe/vryptobot)**  
-   - 📝 *Description:* An automation and intelligent bot development project.  
-   - 🔧 *Technologies:* [Add key technologies]
-
-3. **[Simulador de cerebro](https://github.com/ErGranPepe/simulador-de-cerebro)**  
-   - 📝 *Description:* A brain simulation project exploring neural models and cognitive processes.  
-   - 🔧 *Technologies:* [Add key technologies]
-
-4. **[TFG Contamiination](https://github.com/ErGranPepe/tfg-contamiination)**  
-   - 📝 *Description:* My final degree project tackling contamination challenges with innovative technology.  
-   - 🔧 *Technologies:* [Add key technologies]
-
-5. **More Projects:**  
-   - Discover additional projects on my [GitHub Profile](https://github.com/ErGranPepe?tab=repositories).
-
----
 
 ## ⚙️ Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-Git-red?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-Power%20BI-232F3E?style=flat&logo=powerbi&logoColor=yellow" alt="Power BI"/>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/-C-blue?style=flat&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white" alt="Haskell"/>
+  <img src="https://img.shields.io/badge/-Scala-red?style=flat&logo=scala&logoColor=white" alt="Scala"/>
+  <br/>
+  <!-- Other Technologies -->
+  <img src="https://img.shields.io/badge/-JSON-lightgrey?style=flat" alt="JSON"/>
+  <img src="https://img.shields.io/badge/-Android%20Studio-green?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/-R-blueviolet?style=flat&logo=r&logoColor=white" alt="R"/>
 </p>
 
 ---
