@@ -47,8 +47,7 @@
 
 
 <div align="center">
-📊 GITHUB STATS
-<img src="https://github-readme-stats.vercel.app/api?username=ErGranPepe&show_icons=true&theme=radical&border_radius=20&hide_border=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErGranPepe&layout=compact&theme=radical&border_radius=20&hide_border=true" width="48%"/> </div>
+
 ⚡ CONTACTO DIRECTO
 <div align="center"> <table> <tr> <td width="33%" align="center"> <a href="mailto:mariodiazgomez05@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </td> <td width="33%" align="center"> <a href="https://www.linkedin.com/in/mario-diaz-gomez-9a6755292/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </td> <td width="33%" align="center"> <a href="https://github.com/ErGranPepe"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </td> </tr> <tr> <td align="center"><strong>📧 mariodiazgomez05@gmail.com</strong></td> <td align="center"><strong>📱 +34 601 71 21 68</strong></td> <td align="center"><strong>📍 Madrid, España</strong></td> </tr> </table> </div>
 <div align="center">
