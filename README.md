@@ -54,7 +54,6 @@
 <div align="center">
 
 
-┌─────────────────────────────────────┐
-│ "AI + Automatización = FUTURO"      │
-│  - Mario Díaz Gómez, 2026           │
-└─────────────────────────────────────┘
+
+ Mario Díaz Gómez, 2026           
+
