@@ -1,12 +1,5 @@
 <div align="center">
 
-<!-- 🔥 CYBERPUNK TERMINAL EFFECT 🔥 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ErGranPepe/ErGranPepe/blob/main/Mario_diaz_gomez_dark.gif?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ErGranPepe/ErGranPepe/blob/main/Mario_diaz_gomez_light.gif?raw=true">
-  <img src="https://github.com/ErGranPepe/ErGranPepe/blob/main/Mario_diaz_gomez_dark.gif?raw=true" alt="Mario Díaz Gómez | AI Consultant" width="100%"/>
-</picture>
-
 <!-- TERMINAL LOADING ANIMATION -->
 
 </div>
